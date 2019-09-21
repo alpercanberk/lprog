@@ -1,0 +1,24 @@
+.navbar{
+    width: 90%;
+    margin:10px auto;
+    background-color:#A91834 !important;
+    border-radius:10px;
+}
+
+.navbar-brand{
+  color:white;
+}
+
+.navbar-brand:hover{
+  color:white;
+}
+
+.jumbotron {
+  width: 90%;
+  margin:15px auto;
+}
+
+.btn{
+  background-color: #A91834 !important;
+  color:white !important;
+}
